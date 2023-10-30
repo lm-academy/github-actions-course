@@ -1,3 +1,6 @@
+# See 03-workflow-runners/README.md for more information
+# about the different runners for GitHub Actions.
+
 name: 03 - Workflow Runners
 
 on: workflow_dispatch
