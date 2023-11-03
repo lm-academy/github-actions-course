@@ -1,3 +1,6 @@
+# See 06-contexts/README.md for more information
+# about the how to use contexts in GitHub Actions.
+
 name: 06 - Contexts
 run-name: 06 - Contexts | DEBUG - ${{ inputs.debug }}
 
