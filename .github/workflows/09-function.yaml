@@ -1,3 +1,7 @@
+# See 09-functions/README.md for more information
+# about using functions in workflows, as well as
+# commonly used functions and their features.
+
 name: 09 - Using Functions
 
 on:
