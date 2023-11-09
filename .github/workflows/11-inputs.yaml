@@ -1,3 +1,7 @@
+# See 11-inputs/README.md for more information
+# about how to define and provide inputs to
+# workflows and custom actions.
+
 name: 11 - Working with Inputs
 
 on:
