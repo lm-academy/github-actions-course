@@ -1,3 +1,7 @@
+# See 10-execution-flow/README.md for more information
+# about which features GitHub Actions offers in order
+# to control the flow of workflows.
+
 name: 10 - Controlling the Execution Flow
 
 on:
