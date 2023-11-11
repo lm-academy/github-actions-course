@@ -1,3 +1,7 @@
+# See 12-outputs/README.md for more information
+# about how to define outputs from jobs and
+# reference them from within other dependent jobs.
+
 name: 12 - Working with Outputs
 
 on:
