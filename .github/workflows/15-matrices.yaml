@@ -45,3 +45,6 @@ jobs:
         include:
           - color: red
             shape: triangle
+    steps:
+      - name: Dummy step
+        run: echo "${{ matrix.color }}-${{ matrix.shape }}-${{ matrix.size }}"
