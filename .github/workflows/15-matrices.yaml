@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Setup node
         uses: actions/setup-node@v3
-        with: 
+        with:
           node-version: ${{ matrix.node-version }}
       - name: Fail if experimental
         if: matrix.tag == 'experimental'
@@ -34,3 +34,14 @@ jobs:
           sleep 10
       - name: Upload test results
         run: echo "Uploading test results"
+  include-example:
+    name: ${{ matrix.color }}-${{ matrix.shape }}-${{ matrix.size }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        color: [red, green]
+        shape: [circle, square]
+        size: [small, large]
+        include:
+          - color: red
+            shape: triangle
