@@ -1,3 +1,6 @@
+# See 16-environments/README.md for more information
+# about how to create and use environments in workflows.
+
 name: 16 - Working with Environments
 
 on:
