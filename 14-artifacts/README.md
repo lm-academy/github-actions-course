@@ -14,7 +14,7 @@ You can use the `upload-artifact` action to upload artifacts. These artifacts ca
 
 ```yaml
 - name: Archive production artifacts
-  uses: actions/upload-artifact@v3
+  uses: actions/upload-artifact@v4
   with:
     name: dist-without-markdown
     path: |
@@ -35,7 +35,7 @@ You can set a custom retention period for an artifact using the retention-days o
 
 ```yaml
 - name: Upload Artifact
-  uses: actions/upload-artifact@v3
+  uses: actions/upload-artifact@v4
   with:
     name: my-artifact
     path: my_file.txt
