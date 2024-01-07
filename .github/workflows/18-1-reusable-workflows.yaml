@@ -1,4 +1,4 @@
-name: 18.1 - Reusable Workflows - Reusable Definition
+name: 18 - 1 - Reusable Workflows - Reusable Definition
 
 on:
   workflow_call:

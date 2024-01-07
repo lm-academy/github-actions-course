@@ -1,4 +1,4 @@
-name: 18.3 - Reusable Workflows
+name: 18 - 3 - Reusable Workflows
 
 on:
   workflow_dispatch:
