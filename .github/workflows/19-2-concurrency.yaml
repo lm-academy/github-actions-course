@@ -1,3 +1,7 @@
+# See 19-concurrency/README.md for more information
+# about how to define concurrency groups and how
+# concurrency is managed on GitHub Actions.
+
 name: 19 - 2 - Managing Concurrency
 
 on:
