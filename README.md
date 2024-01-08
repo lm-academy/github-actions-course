@@ -1,6 +1,6 @@
 # Mastering GitHub Actions: From Beginner to Expert
 
-### Course link (with a big discount 🙂): 
+### Course link (with a big discount 🙂): https://www.lauromueller.com/courses/mastering-github-actions
 
 Welcome everyone! I'm very happy to see you around, and I hope this repository brings lots of value for those learning more about GitHub Actions. Make sure to check the link above for a great discourse on the course in Udemy, where I not only provide theoretical explanations around all the concepts here, but also go in details through the entire coding of the examples in this repository.
 
