@@ -1,0 +1,18 @@
+name: 01-Building Blocks                            # Name of the workflow
+on: push                                            # Event that triggers the workflow
+jobs:                                               # Definition of jobs in the workflow
+    echo-hello:                                     # Name of the job
+        runs-on: ubuntu-latest                      # Runner environment for the job
+        steps:                                      # Steps that the job executes
+            - name: Say-Hello                       # Name of the step
+              run: echo "hello, world"              # Command to run in the step
+
+    echo-goodbye:
+        runs-on: ubuntu-latest
+        steps: 
+            - name: failed step
+              run: |
+                echo "i will fail"
+                exit 1
+            - name: Say goodbye
+              run: echo "GoodBye"
