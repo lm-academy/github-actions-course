@@ -1,10 +1,9 @@
 # See 02-workflow-events/README.md for more information
 # about different triggers for GitHub Actions.
 
-name: push
+name: 02 - Workflow Events
 
-on:
-  workflow_dispatch:
+on: push
 
 jobs:
   echo:
