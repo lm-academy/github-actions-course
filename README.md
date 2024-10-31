@@ -4,8 +4,9 @@
 
 **Check my other courses:** 
 
-- 👉 Mastering Terraform: From Beginner to Expert -  https://www.lauromueller.com/courses/mastering-terraform
-- 👉 Write better code: 20 code smells and how to get rid of them -  https://www.lauromueller.com/courses/writing-clean-code
+- 👉 The Complete Docker and Kubernetes Course: From Zero to Hero - https://www.lauromueller.com/courses/docker-kubernetes
+- 👉 Mastering Terraform: From Beginner to Expert - https://www.lauromueller.com/courses/mastering-terraform
+- 👉 Write better code: 20 code smells and how to get rid of them - https://www.lauromueller.com/courses/writing-clean-code
 
 Welcome everyone! I'm very happy to see you around, and I hope this repository brings lots of value for those learning more about GitHub Actions. Make sure to check the link above for a great discourse on the course in Udemy, where I not only provide theoretical explanations around all the concepts here, but also go in details through the entire coding of the examples in this repository.
 
